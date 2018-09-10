@@ -1,0 +1,44 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#4a5d7c",
+    "navigationBarTitleText": "测试APP",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar":{
+    "color":"#000",
+    "selectcolor":"#000",
+    "backgoundColor":"#000",
+    "borderStyle":"white",
+      "list":[
+        {
+          "pagePath":"pages/index/index",
+        "text":"首页"  
+
+
+        },
+        {
+          "pagePath": "pages/index/index",
+          "text": "按钮"
+
+        },
+        {
+          "pagePath": "pages/index/index",
+          "text": "语音"
+        },
+        {
+          "pagePath": "pages/index/index",
+          "text": "按钮"
+        },
+        {
+          "pagePath": "pages/index/index",
+          "text": "我"
+        }
+
+      ]
+  }
+}
